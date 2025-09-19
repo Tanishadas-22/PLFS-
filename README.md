@@ -1,0 +1,1 @@
+Using the PLFS dataset, I created unique household identifiers (HHID), drew a random sample of 253 households, applied various sampling techniques (SRSWOR, SRSWR, linear and circular systematic, stratified, and implicit stratification) on a sub-sample of 25 households, and computed key estimates such as average monthly expenditure, and MPCE for each sampling method.
